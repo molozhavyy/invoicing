@@ -1,4 +1,4 @@
-# invoicing software
+# Free online invoicing software for freelancers and small businesses
 <html>
  <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
